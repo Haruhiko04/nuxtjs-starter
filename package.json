@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.1.0",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "@azure/communication-calling": "^1.1.0",
+    "@azure/communication-common": "^1.1.0"
   },
   "devDependencies": {}
 }
